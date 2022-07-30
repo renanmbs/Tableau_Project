@@ -1,7 +1,7 @@
 # Tableau_Project
 
 <h2>Weber State Data Visualization Bootcamp</h2>
-<p>This repository is to demonstrate my skills learned during my participation on Weber State's Data Visualization Bootcamp</p>
+<p>This repository is to demonstrate skills learned during my participation on Weber State's Data Visualization Bootcamp</p>
 <h3>What Skills Were Worked On</h3>
 <ul>
     <li>Data Visualization</li>
