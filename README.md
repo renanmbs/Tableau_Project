@@ -47,9 +47,9 @@
 
 <h3>Images</h3>
 <h6>Graphs</h6>
-<img height="500" width="600" alt="Presentation 1" src="https://user-images.githubusercontent.com/38012979/181937462-823917f7-cd79-4668-b4d6-13457d125972.png">
+<img height="500" max-width="600" alt="Presentation 1" src="https://user-images.githubusercontent.com/38012979/181937462-823917f7-cd79-4668-b4d6-13457d125972.png">
 <h6>Player's Images and UI/UX</h6>
-<img height="500" width="600" alt="Presentation 2" src="https://user-images.githubusercontent.com/38012979/181937465-c5cce210-3326-4ef3-bc9e-2e344147c307.png">
+<img height="500" max-width="600" alt="Presentation 2" src="https://user-images.githubusercontent.com/38012979/181937465-c5cce210-3326-4ef3-bc9e-2e344147c307.png">
 
 <h3>Conclusion</h3>
 <p>Age <em><strong>might</strong></em> be a big factor, but it is correlational, other things that can affect those statistics:</p>
