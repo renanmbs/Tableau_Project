@@ -57,7 +57,7 @@
   <li>Injuries</li>
   <li>Team</li>
   <li>Coach</li>
-  <li>Player's Lives and Emotions</li>
+  <li>Player's Life and Emotions</li>
 </ul>
 
 <p><em>This work was done in less than 2.5 hours - the amount given to have a question, get data from databases, manipulate & visualize the data, design the data to be presented and present it to classmates and professors</em></p>
